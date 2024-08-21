@@ -1,4 +1,4 @@
-# Boas vindas ao meu perfil 💙💙
+# Boas vindas ao meu perfil 💚💚
 Meu nome é Alexandre Psilva
 
 Estou estudando na Alura
@@ -7,4 +7,4 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 Você pode entrar em contato comigo 📫
 00001094765272SP@al.educacao.sp.gov.br
 
-![Uploading soggy-cat.gif…]()
+![](Uploading soggy-cat.gif…)
